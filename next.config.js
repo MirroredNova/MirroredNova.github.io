@@ -4,4 +4,4 @@ const nextConfig = {
   distDir: 'build',
 }
 
-le.exports = nextConfig
+module.exports = nextConfig
