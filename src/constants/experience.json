@@ -1,0 +1,34 @@
+[
+  {
+    "fromDate": "2022",
+    "toDate": "Present",
+    "role": "Full Stack Developer",
+    "company": "Alliant Energy",
+    "description": "Developed and supported responsive React.js-based web applications that enabled customers to switch their energy plan, resulting in more than 50 customer switches a day and 25% average yearly savings for each.",
+    "skills": ["Typescript", "React", "Node.js", "Express", "HTML5", "CSS", "Jest"]
+  },
+  {
+    "fromDate": "2021",
+    "toDate": "2022",
+    "role": "IT Analyst, Intern",
+    "company": "Alliant Energy",
+    "description": "Designed and executed end-to-end automated tests using Selenium, WinAppDriver, and Appium to verify the functionality of desktop Windows applications, saving around 80 manual hours of testing each week.",
+    "skills": ["C#", "Selenium", "WinAppDriver", "Appium"]
+  },
+  {
+    "fromDate": "2018",
+    "toDate": "2022",
+    "role": "Cybersecurity Analyst",
+    "company": "University of Wisconsin - Madison",
+    "description": "Worked with the Cybersecurity team to automate processes and improve security posture of the university. My duties were split between handling security incidents and developing automations to improve the efficiency of the team.",
+    "skills": ["Python", "Selenium", "PHP", "HTML5", "CSS"]
+  },
+  {
+    "fromDate": "2020",
+    "toDate": "2021",
+    "role": "Java Developer, Intern",
+    "company": "WPS Health Solutions",
+    "description": "Wrote Cucumber scenarios to assess quality and functionality of company websites and report successful and failed tests by automatically creating more than 15 incidents every day.",
+    "skills": ["Java", "Cucumber", "Selenium", "HTML5", "CSS"]
+  }
+]
