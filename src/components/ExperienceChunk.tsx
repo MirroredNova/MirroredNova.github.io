@@ -17,7 +17,7 @@ const ExperienceChunk = ({
   description,
   skills,
 }: Props) => (
-  <div className="text-default-500 flex flex-row gap-4">
+  <div className="text-default-500 flex sm:flex-row flex-col sm:gap-4 gap-1">
     <div className="whitespace-nowrap min-w-[128px]">{`${fromDate} - ${toDate}`}</div>
     <div className="gap-2 flex flex-col">
       <div>
@@ -25,7 +25,7 @@ const ExperienceChunk = ({
         <h4 className="text-small">{role}</h4>
       </div>
       <p>{description}</p>
-      <ul className="flex flex-row gap-4">
+      <ul className="flex flex-row gap-4 font-light text-default-400">
         {skills.map((skill, index) => (
           <li key={index} className="text-small">
             {skill}

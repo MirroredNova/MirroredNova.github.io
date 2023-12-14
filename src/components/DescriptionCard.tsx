@@ -1,7 +1,7 @@
 import React from "react";
 
 const DescriptionCard = () => (
-  <div>
+  <div className="flex flex-col gap-1">
     <h2 className="text-small">About</h2>
     <p className="text-default-500">
       Hello! My name is Nate Wiltzius, and I am a Full Stack Developer. I love

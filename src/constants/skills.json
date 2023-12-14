@@ -1,0 +1,51 @@
+[
+  {
+    "group": "Programming Languages",
+    "description": "I have worked with many different programming languages. Here are the languages I am most familiar with.",
+    "skills": [
+      "CSS",
+      "C#",
+      "HTML",
+      "Java",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "TypeScript"
+    ]
+  },
+  {
+    "group": "Frameworks",
+    "description": "I love to explore new frameworks and technologies. Here are some of the frameworks I have experience with.",
+    "skills": [
+      "Django",
+      "Express",
+      "Next.js",
+      "Node.js",
+      "React",
+      "Redux"
+    ]
+  },
+  {
+    "group": "Tools",
+    "description": "This is a list of some of the tools I have experience with.",
+    "skills": [
+      "Azure",
+      "Confluence",
+      "Docker",
+      "Elasticsearch",
+      "Figma",
+      "Firebase",
+      "GitLab",
+      "GitHub",
+      "Jira",
+      "Microsoft Teams",
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Postman",
+      "Redis",
+      "SQLite",
+      "Vercel"
+    ]
+  }
+]

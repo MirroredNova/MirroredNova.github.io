@@ -4,18 +4,9 @@ import ExperienceChunk from "@/components/ExperienceChunk";
 
 const ExperienceCard = () => (
   <div>
-    <h2 className="text-small">Experience</h2>
-    <div className="flex flex-col gap-8">
+    <div className="flex flex-col sm:mt-0 mt-6 sm:gap-8 gap-12">
       {experience.map((experienceChunk, index) => (
-        <ExperienceChunk
-          key={index}
-          fromDate={experienceChunk.fromDate}
-          toDate={experienceChunk.toDate}
-          role={experienceChunk.role}
-          company={experienceChunk.company}
-          description={experienceChunk.description}
-          skills={experienceChunk.skills}
-        />
+        <ExperienceChunk key={index} {...experienceChunk} />
       ))}
     </div>
   </div>

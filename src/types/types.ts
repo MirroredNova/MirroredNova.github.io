@@ -9,5 +9,4 @@ export type Experience = {
 
 export type Tabs = {
   title: string;
-  component: JSX.Element;
 };
