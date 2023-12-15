@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Itineraries",
+    "relation": "Personal",
+    "status": "In-progress",
+    "description": "This is a project I'm working on to help people plan their trips. It's an ongoing work in progress",
+    "links": [
+      "itineraries.me",
+      "https://github.com/MirroredNova/itineraries"
+    ]
+  },
+  {
+    "title": "Plate Initiative",
+    "relation": "For a friend",
+    "status": "Complete",
+    "description": "This is a project I did for a friend. It's a website for non-profit organization that helps youths about the field of culinary arts and helps them explore potential opportunities.",
+    "links": [
+      "https://plate-initiative.vercel.app/",
+      "https://github.com/MirroredNova/plate-initiative"
+    ]
+  }
+] 

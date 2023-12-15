@@ -1,6 +1,6 @@
-import { Tabs } from "@/types/types";
+import { Tab } from "@/types/types";
 
-export const tabs: Tabs[] = [
+export const tabs: Tab[] = [
   {
     title: "Experience",
   },

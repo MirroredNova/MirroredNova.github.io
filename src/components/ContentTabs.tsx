@@ -3,11 +3,11 @@
 import { Tabs, Tab } from "@nextui-org/react";
 import React, { useState } from "react";
 import { tabs } from "@/constants/constants";
-import ContactCard from "./ContactCard";
-import EducationCard from "./EducationCard";
-import ExperienceCard from "./ExperienceCard";
-import ProjectsCard from "./ProjectsCard";
-import SkillsCard from "./SkillsCard";
+import ContactCard from "./Contact/ContactCard";
+import EducationCard from "./Education/EducationCard";
+import ExperienceCard from "./Experience/ExperienceCard";
+import ProjectsCard from "./Project/ProjectsCard";
+import SkillsCard from "./Skills/SkillsCard";
 
 export const components = {
   Experience: <ExperienceCard />,
@@ -28,9 +28,9 @@ const ContentTabs = () => {
       variant="underlined"
       disableAnimation
       classNames={{
-        tabList: "p-0 flex flex-row gap-8",
-        tab: "p-0 after:w-full",
-        panel: "py-2",
+        tabList: "p-0 flex flex-row gap-2 sm:gap-8",
+        tab: "p-0 after:w-full text-sm sm:text-base",
+        panel: "py-2 px-0",
       }}
     >
       {tabs.map((tab) => (
