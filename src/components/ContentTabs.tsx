@@ -30,7 +30,7 @@ const ContentTabs = () => {
       classNames={{
         tabList: "p-0 flex flex-row gap-2 sm:gap-8",
         tab: "p-0 after:w-full text-sm sm:text-base",
-        panel: "py-2 px-0",
+        panel: "p-0",
       }}
     >
       {tabs.map((tab) => (

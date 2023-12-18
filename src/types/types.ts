@@ -9,6 +9,7 @@ export type Experience = {
 
 export type Course = {
   name: string;
+  number: string;
   semester: string;
   description: string;
 };

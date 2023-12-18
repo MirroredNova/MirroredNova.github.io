@@ -3,9 +3,9 @@
     "title": "Itineraries",
     "relation": "Personal",
     "status": "In-progress",
-    "description": "This is a project I'm working on to help people plan their trips. It's an ongoing work in progress",
+    "description": "Currently in development, this project aims to simplify trip planning. Users can create and share itineraries seamlessly. The website, built with TypeScript, Next.js, TailwindCSS, and Firebase, promises a user-friendly experience.",
     "links": [
-      "itineraries.me",
+      "https://itineraries.me",
       "https://github.com/MirroredNova/itineraries"
     ]
   },
@@ -13,10 +13,30 @@
     "title": "Plate Initiative",
     "relation": "For a friend",
     "status": "Complete",
-    "description": "This is a project I did for a friend. It's a website for non-profit organization that helps youths about the field of culinary arts and helps them explore potential opportunities.",
+    "description": "Successfully completed, Plate Initiative is a static website for a non-profit organization focused on educating youths about culinary arts. Built with TypeScript, Next.js, and TailwindCSS, it offers multiple pages, forms, and full mobile responsiveness. Hosted on Vercel.",
     "links": [
       "https://plate-initiative.vercel.app/",
       "https://github.com/MirroredNova/plate-initiative"
     ]
+  },
+  {
+    "title": "mirrorednova.github.io",
+    "relation": "Personal",
+    "status": "Complete",
+    "description": "My personal website, a static showcase of my skills, experience, and projects. Developed with TypeScript, Next.js, TailwindCSS, and NextUI, it serves as a comprehensive portfolio for anyone interested.",
+    "links": [
+      "https://mirrorednova.github.io/",
+      "https://github.com/MirroredNova/mirrorednova.github.io"
+    ]
+  },
+  {
+    "title": "Monkey Management",
+    "relation": "For a friend",
+    "status": "Complete",
+    "description": "A data-driven website for social media management, Monkey Management allows admins to create, edit, and delete blog and project posts. Built with TypeScript, Next.js, SCSS, Cloudinary, and Firebase, it features a custom CMS supporting styling and media uploads.",
+    "links": [
+      "https://monkey-management.vercel.app/",
+      "https://github.com/MirroredNova/monkey-management"
+    ]
   }
-] 
+]

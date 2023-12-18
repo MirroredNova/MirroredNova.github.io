@@ -1,12 +1,80 @@
 [
   {
-    "name": "Algorithms",
-    "semester": "Fall 2019",
-    "description": "This course is an introduction to the design and analysis of algorithms. Topics include asymptotic notation, recurrences and recursion, sorting algorithms, graph algorithms, greedy algorithms, divide and conquer, dynamic programming, and NP-completeness."
+    "name": "Programming 2",
+    "number": "CS300",
+    "semester": "Spring 2019",
+    "description": "Introduction to Object-Oriented Programming using classes and objects to solve more complex problems. Explored array-based and linked data structures, including lists, stacks, and queues. Completed programming assignments that involved writing and developing multi-class programs using interfaces, generics, and exception handling to address real-world challenges."
   },
   {
-    "name": "Data Structures",
+    "name": "Intro to Discrete Mathematics",
+    "number": "CS240",
+    "semester": "Fall 2019",
+    "description": "Explored basic concepts of logic, sets, partial order, and other relations, with a focus on discrete structures such as integers, bits, strings, trees, and graphs. Covered propositional logic, Boolean algebra, predicate logic, mathematical induction, recursion, invariants, algorithmic correctness, recurrences, and asymptotic growth analysis. Emphasized fundamentals of counting."
+  },
+  {
+    "name": "Intro to Computer Engineering",
+    "number": "CS252",
+    "semester": "Fall 2019",
+    "description": "Delved into logic components built with transistors, rudimentary Boolean algebra, basic combinational logic design, basic synchronous sequential logic design, basic computer organization and design, and introductory machine- and assembly-language programming."
+  },
+  {
+    "name": "Programming 3",
+    "number": "CS400",
+    "semester": "Fall 2019",
+    "description": "Covered balanced search trees, graphs, graph traversal algorithms, hash tables, sets, and complexity analysis. Designed and implemented a medium-sized program using high-quality professional code, showcasing knowledge of the latest language features, tools, and conventions. Explored inheritance, polymorphism, anonymous inner classes, lambda functions, and performance analysis. Implemented a project with a more advanced user-interface design."
+  },
+  {
+    "name": "Introduction to Algorithms",
+    "number": "CS577",
     "semester": "Spring 2020",
-    "description": "This course is an introduction to the design and analysis of data structures. Topics include asymptotic notation, linked lists, stacks, queues, trees, heaps, hash tables, and graphs."
+    "description": "Explored the design and analysis of algorithms, including asymptotic analysis, divide-and-conquer algorithms, recurrences, greedy algorithms, data structures, dynamic programming, graph algorithms, and randomized algorithms."
+  },
+  {
+    "name": "Combinitorics",
+    "number": "CS475",
+    "semester": "Fall 2020",
+    "description": "Covered basics of enumeration, distribution, arrangement, inclusion-exclusion principle, generating functions, linear recurrence relations, combinatorial identities, graph coloring problems, finite designs, systems of distinct representatives, matching problems in graphs, and potential applications in the social, biological, and physical sciences. Emphasized problem-solving."
+  },
+  {
+    "name": "Machine Organization and Programming",
+    "number": "CS354",
+    "semester": "Fall 2020",
+    "description": "Provided an introduction to fundamental structures of computer systems and the C programming language. Focused on low-level interrelationships and impacts on performance, covering virtual address space, virtual memory, heap and dynamic memory management, memory hierarchy, caching, assembly language, stack, communication, interrupts/signals, compiling, and assemblers/linkers."
+  },
+  {
+    "name": "Artificial Intelligence",
+    "number": "CS540",
+    "semester": "Spring 2021",
+    "description": "Explored principles of knowledge-based search techniques, automatic deduction, knowledge representation using predicate logic, machine learning, and probabilistic reasoning. Applied concepts to problem-solving, data mining, game playing, natural language understanding, computer vision, speech recognition, and robotics."
+  },
+  {
+    "name": "Database Management Systems",
+    "number": "CS564",
+    "semester": "Spring 2021",
+    "description": "Explored what a database management system is, different data models (relational, hierarchical, and network), and hands-on experience with relational and network-based database systems. Covered implementation techniques, file organization, query processing, concurrency control, rollback and recovery, integrity and consistency, and view implementation."
+  },
+  {
+    "name": "Matrix Methods in Machine Learning",
+    "number": "CS532",
+    "semester": "Fall 2021",
+    "description": "Explored linear algebraic foundations of machine learning with real-world applications of matrix methods. Covered linear equations, regression, regularization, singular value decomposition, iterative algorithms, and machine learning topics such as the lasso, support vector machines, kernel methods, clustering, dictionary learning, neural networks, and deep learning."
+  },
+  {
+    "name": "Software Engineering",
+    "number": "CS506",
+    "semester": "Fall 2021",
+    "description": "Explored ideas and techniques for designing, developing, and modifying large software systems. Covered software engineering processes, requirements and specifications, project team organization and management, software architectures, design patterns, testing and debugging, and cost and quality metrics and estimation. Involved working in large teams on a substantial programming project."
+  },
+  {
+    "name": "Artificial Neural Networks",
+    "number": "CS539",
+    "semester": "Fall 2021",
+    "description": "Covered theory and applications of artificial neural networks, including multi-layer perceptron, self-organization map, deep neural network, convolutional neural network, recurrent network, support vector machines, genetic algorithm, and evolution computing. Applied concepts to control, pattern recognition, prediction, object detection, and tracking."
+  },
+  {
+    "name": "Learn and Programming Language",
+    "number": "CS368",
+    "semester": "Spring 2022",
+    "description": "Designed for students interested in learning a particular programming language. Focused on Python at an advanced level, covering various aspects of the language."
   }
 ]

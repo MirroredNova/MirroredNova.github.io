@@ -19,11 +19,16 @@ const EducationCard = () => (
           <h3 className="font-extralight">2018 - 2022</h3>
         </div>
       </div>
-      <div>
-        <h3 className="font-bold">Courses:</h3>
+      <div className="flex flex-col gap-4">
+        <p>
+          I took many courses throughout college. Here are the courses that are
+          relevant to my field. I did not include courses for my Mathematics
+          major.
+        </p>
+        <h3 className="font-extrabold text-default-600">Courses:</h3>
         <div className="flex flex-col gap-4">
           {courses.map((course: Course) => (
-            <CourseChunk key={course.name} {...course} />
+            <CourseChunk key={course.name} course={course} />
           ))}
         </div>
       </div>

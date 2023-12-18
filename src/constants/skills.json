@@ -1,7 +1,7 @@
 [
   {
     "group": "Programming Languages",
-    "description": "I have worked with many different programming languages. Here are the languages I am most familiar with.",
+    "description": "I have worked with many different programming languages. Here are the languages I consider myself to be an expert in.",
     "skills": [
       "CSS",
       "C#",
@@ -17,6 +17,7 @@
     "group": "Frameworks",
     "description": "I love to explore new frameworks and technologies. Here are some of the frameworks I have experience with.",
     "skills": [
+      "Cucumber",
       "Django",
       "Express",
       "Next.js",
@@ -27,7 +28,7 @@
   },
   {
     "group": "Tools",
-    "description": "This is a list of some of the tools I have experience with.",
+    "description": "This is a list of some of the tools I consider myself proficient in.",
     "skills": [
       "Azure",
       "Confluence",
