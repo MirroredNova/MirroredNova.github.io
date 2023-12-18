@@ -2,17 +2,17 @@
   {
     "fromDate": "2022",
     "toDate": "Present",
-    "role": "Full Stack Developer",
+    "role": "Frontend Developer",
     "company": "Alliant Energy",
-    "description": "Developed and supported responsive React.js-based web applications that enabled customers to switch their energy plan, resulting in more than 50 customer switches a day and 25% average yearly savings for each.",
-    "skills": ["Typescript", "React", "Node.js", "Express", "HTML5", "CSS", "Jest"]
+    "description": "Leading the development of responsive React.js-based web applications, resulting in over 50 daily customer switches and a 25% average yearly savings. Improved code quality and maintainability with TypeScript, reducing bugs by 30% and increasing development speed by 50%. Automation efforts with Selenium, Cypress, and Jest reduced regression bugs by 40%. Implemented CI/CD processes for streamlined deployment.",
+    "skills": ["Typescript", "React", "Node.js", "Express", "HTML5", "CSS", "Jest", "Azure"]
   },
   {
     "fromDate": "2021",
     "toDate": "2022",
     "role": "IT Analyst, Intern",
     "company": "Alliant Energy",
-    "description": "Designed and executed end-to-end automated tests using Selenium, WinAppDriver, and Appium to verify the functionality of desktop Windows applications, saving around 80 manual hours of testing each week.",
+    "description": "Designed and executed end-to-end automated tests using Selenium, WinAppDriver, and Appium, saving around 80 manual hours of testing each week. Created comprehensive test plans and cases for desktop Windows applications by analyzing software requirements. Active participation in team meetings facilitated collaborative testing strategies, contributing to continuous improvement and customer satisfaction.",
     "skills": ["C#", "Selenium", "WinAppDriver", "Appium"]
   },
   {
@@ -20,7 +20,7 @@
     "toDate": "2022",
     "role": "Cybersecurity Analyst",
     "company": "University of Wisconsin - Madison",
-    "description": "Worked with the Cybersecurity team to automate processes and improve security posture of the university. My duties were split between handling security incidents and developing automations to improve the efficiency of the team.",
+    "description": "Designed, developed, and maintained web applications and automations to assist the analysts at manual tasks, resulting in a time savings of over 10 hours per week. Monitored customer support tickets, providing timely responses and achieving a 50% higher daily ticket resolution rate than the company average.",
     "skills": ["Python", "Selenium", "PHP", "HTML5", "CSS"]
   },
   {
@@ -28,7 +28,7 @@
     "toDate": "2021",
     "role": "Java Developer, Intern",
     "company": "WPS Health Solutions",
-    "description": "Wrote Cucumber scenarios to assess quality and functionality of company websites and report successful and failed tests by automatically creating more than 15 incidents every day.",
+    "description": "Focused on enhancing website quality through Cucumber scenarios. Integrated pipeline scripts that automatically generated more than 15 incidents daily to report successful and failed tests. Integrated shared Java libraries into existing projects, cutting future maintenance costs by 50%.",
     "skills": ["Java", "Cucumber", "Selenium", "HTML5", "CSS"]
   }
 ]
