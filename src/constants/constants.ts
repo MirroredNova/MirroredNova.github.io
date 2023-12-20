@@ -16,4 +16,7 @@ export const tabs: Tab[] = [
   {
     title: "Contact",
   },
+  {
+    title: "About",
+  },
 ];

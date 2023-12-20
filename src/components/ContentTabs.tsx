@@ -8,6 +8,7 @@ import EducationCard from "./Education/EducationCard";
 import ExperienceCard from "./Experience/ExperienceCard";
 import ProjectsCard from "./Project/ProjectsCard";
 import SkillsCard from "./Skills/SkillsCard";
+import AboutCard from "./About/AboutCard";
 
 export const components = {
   Experience: <ExperienceCard />,
@@ -15,6 +16,7 @@ export const components = {
   Skills: <SkillsCard />,
   Projects: <ProjectsCard />,
   Contact: <ContactCard />,
+  About: <AboutCard />,
 };
 
 const ContentTabs = () => {

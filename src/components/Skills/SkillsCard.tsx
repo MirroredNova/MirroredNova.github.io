@@ -5,9 +5,9 @@ const SkillsCard = () => (
   <div className="text-default-500 flex flex-col gap-8">
     {skills.map((skill) => (
       <div key={skill.group} className="gap-4 flex flex-col">
-        <div>
+        <div className="flex flex-col gap-2">
           <h3 className="font-extrabold text-default-600">{skill.group}</h3>
-          <p className="pt-1">{skill.description}</p>
+          <p>{skill.description}</p>
         </div>
         <div className="flex flex-row flex-wrap gap-4">
           {skill.skills.map((item) => (
