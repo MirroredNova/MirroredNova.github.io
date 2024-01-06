@@ -4,7 +4,7 @@ import { useWindowSize } from "usehooks-ts";
 
 const countryData = [
   ["Country", "year", { role: "tooltip", type: "string", p: { html: true } }],
-  ["US", 2000, "First Visit Year: 2000"],
+  ["US", 2000, "Home Country"],
   ["MX", 2018, "First Visit Year: 2018"],
   ["CA", 2019, "First Visit Year: 2019"],
   ["IS", 2020, "First Visit Year: 2020"],
